@@ -1,0 +1,9 @@
+16 git status                                                                                                          
+   git add Git_practice.sh                                                                                             
+  18 git status                                                                                                          
+  19 git commit -m "practice script file added"                                                                          
+  20 git status                                                                                                          
+  21 rm Git_practice.sh                                                                                                  
+  22 ls                                                                                                                  
+  23 git status                                                                                                          
+  24 git restore Git_practice.sh 
