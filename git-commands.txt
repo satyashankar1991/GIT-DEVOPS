@@ -6,4 +6,7 @@
   21 rm Git_practice.sh                                                                                                  
   22 ls                                                                                                                  
   23 git status                                                                                                          
-  24 git restore Git_practice.sh 
+  24 git restore Git_practice.sh
+
+
+  changnes have been made
