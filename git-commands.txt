@@ -7,3 +7,5 @@
   22 ls                                                                                                                  
   23 git status                                                                                                          
   24 git restore Git_practice.sh 
+
+These are the command i added recently
