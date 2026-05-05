@@ -1,0 +1,12 @@
+
+cat
+tac
+mv
+rm
+ls
+ll
+ps
+grep
+top
+htop
+nslookup
